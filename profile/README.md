@@ -24,6 +24,10 @@ Management is aware of the situation.
 
 Responsible for the company's vision, strategic direction, and keeping feature requests under control.
 
+**Els: Chief AI Officer**
+
+Responsible for artificial intelligence strategy, research, and ensuring that as much work as possible is done by someone else.
+
 **[SuperMiaw](https://github.com/SuperMiaw): Part-time Software Engineer**
 
 Responsible for development, maintenance, infrastructure, and most of the problems that require fixing.
