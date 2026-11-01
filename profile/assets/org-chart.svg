@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520" role="img" aria-labelledby="title desc">
+<title id="title">FewFewSoft Corporate Structure</title>
+<text x="480" y="55" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="4" fill="#34445d">FewFewSoft</text>
+<text x="480" y="81" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2.4" fill="#7b8798">Corporate gouvernance structure</text>
+<g fill="none" stroke="#a7b6c9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M480 191 V229 H290 V261"/><path d="M480 229 H670 V261"/><path d="M290 331 V385"/></g>
+<g fill="#ffffff" stroke="#cbd5e1" stroke-width="2">
+<rect x="370" y="121" width="220" height="70" rx="12"/>
+<rect x="180" y="261" width="220" height="70" rx="12"/>
+<rect x="560" y="261" width="220" height="70" rx="12"/>
+<rect x="180" y="385" width="220" height="70" rx="12"/>
+</g>
+<g fill="#26364d" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" text-anchor="middle" letter-spacing="2">
+<text x="480" y="165">CEO</text><text x="290" y="305">CAIO</text><text x="670" y="305">CVO</text><text x="290" y="429">DEVs</text>
+</g>
+</svg>

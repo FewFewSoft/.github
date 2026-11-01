@@ -20,6 +20,8 @@ Management is aware of the situation.
 
 ## Meet the team
 
+![Organisation chart](assets/org-chart.svg)
+
 **Elfew: Founder & CEO**
 
 Responsible for the company's vision, strategic direction, and keeping feature requests under control.
@@ -30,9 +32,7 @@ Responsible for artificial intelligence strategy, research, and ensuring that as
 
 **Elli: Chief Veterinary Officer**
 
-Responsible for employee wellness, mascot healthcare, and the general well-being of all living assets.
-
-His department remains the only one with a functioning emergency response protocol.
+Responsible for employee wellness, mascot healthcare, and the general well-being of all living assets. His department remains the only one with a functioning emergency response protocol.
 
 **[SuperMiaw](https://github.com/SuperMiaw): Part-time Software Engineer**
 
